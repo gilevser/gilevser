@@ -1,7 +1,7 @@
 Hello World!
 
-Меня зовут Сергей,
-Я Full Stack JavaScript Developer!
+Меня зовут Сергей.
+Я, Full Stack JavaScript Developer!
 
 Создаю web-приложения с нуля.  
 
